@@ -20,5 +20,11 @@
         "DEVICE_TYPE": "dyn_camera",
         "NUM_CAMERA": 1,
         "SCAN_CAMERAS": 8
+    },
+    "THING|||||powerstrip": {
+        "GROUP": "THING",
+        "SORT": "powerstrip",
+        "DEVICE_TYPE": "kasa_strip",
+        "DEVICE_ADDRESS": "192.168.2.181"
     }
 }
